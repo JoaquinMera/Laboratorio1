@@ -1,0 +1,3 @@
+El primer archivo de mi primer repositorio de laboratorio
+
+modifiqué el archivo agregando dos lineas
