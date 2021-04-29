@@ -3,3 +3,5 @@ El primer archivo de mi primer repositorio de laboratorio
 modifiqué el archivo agregando dos lineas
 
 modifiqué de nuevo el archivo agregando dos lineas más, cinco en total
+
+dos lineas más, para agregar cambios
