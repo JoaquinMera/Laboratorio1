@@ -5,3 +5,5 @@ modifiqué el archivo agregando dos lineas
 modifiqué de nuevo el archivo agregando dos lineas más, cinco en total
 
 dos lineas más, para agregar cambios
+
+agrego más lineas para el laboratorio 2
